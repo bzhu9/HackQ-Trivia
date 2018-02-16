@@ -8,6 +8,7 @@ google
 nltk
 requests
 websocket
+websocket-client
 joblib
 ```
 ### Installation
